@@ -1,11 +1,34 @@
 {
   "posts": [
     {
-      "period":2009,
-     "province":"cadiz",
-     "population_over_16_years":995375,
-     "activity_men_percentage":67.9,
-     "activity_women_percentage":45.6
+      "year":2009,
+     "province":"Galicia",
+     "adult":453646,
+     "average_salary":1200
+    },
+     {
+      "year":2014,
+     "province":"Navarra",
+     "adult":995375,
+     "average_salary":1400
+    },
+    {
+      "year":2015,
+     "province":"Barceloma",
+     "adult":1195375,
+     "average_salary":1800
+    },
+    {
+      "year":1999,
+     "province":"Badajoz",
+     "adult":603054,
+     "average_salary":960
+    },
+    {
+      "year":2000,
+     "province":"Cadiz",
+     "adult":303054,
+     "average_salary":1600
     }
   ],
   "profile": {
