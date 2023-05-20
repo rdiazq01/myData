@@ -1,6 +1,12 @@
 {
   "posts": [
-    {"period":2009,"province":"cadiz","population_over_16_years":995375,"activity_men_percentage":67.9,"activity_women_percentage":45.6}
+    {
+      "period":2009,
+     "province":"cadiz",
+     "population_over_16_years":995375,
+     "activity_men_percentage":67.9,
+     "activity_women_percentage":45.6
+    }
   ],
   "profile": {
     "name": "typicode"
